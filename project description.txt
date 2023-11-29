@@ -1,0 +1,6 @@
+CREATIVE PROJECT:
+
+A sketch pad in processing that allows you to draw pixel art and the corresponding drawing
+will appear on an WS2182B LED 16x16 LED matrix. Each grid in the processing sketch pad
+is mapped to an LED on the matrix, which when click signals the matrix to also activate
+the corresponding LED.
